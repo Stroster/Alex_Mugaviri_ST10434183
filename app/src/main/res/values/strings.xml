@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WEATHER APPLICATION</string>
+    <string name="Creator">ALEX MUGAVIRI</string>
+    <string name="StudentNumber">Student No: ST10434183</string>
+    <string name="BACK">BACK</string>
+    <string name="START">START</string>
+    <string name="TextView">TextView</string>
+    <string name="Clear">CLEAR</string>
+    <string name="Enter">ENTER</string>
+    <string name="EXIT">EXIT</string>
+    <string name="Next">NEXT</string>
+</resources>
