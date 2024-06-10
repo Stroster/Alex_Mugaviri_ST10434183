@@ -39,3 +39,5 @@ The app stores temperatures in an array of doubles and uses another array for we
 The average temperature is calculated by summing the temperatures and dividing by 7.
 The app handles user input with an OnEditorActionListener to process and validate data.
 By following these steps, you can efficiently use the app to manage and view weekly weather conditions!
+
+GITHUB link https://github.com/VCCT-IMAD5112-2024-G1/Alex_Mugaviri_ST10434183 
