@@ -5,11 +5,14 @@ How to Use the App
 Splash Screen:
 
 When you open the app, you will see a splash screen with two buttons: START and BACK.
+![Screenshot 2024-06-10 132934](https://github.com/VCCT-IMAD5112-2024-G1/Alex_Mugaviri_ST10434183/assets/164025780/83c4d63f-22d2-4d29-a928-6cfa75823dc9)
+
 Click START to go to the main screen.
 Click BACK to exit the app.
 Main Screen:
 
 On the main screen, you will see several elements:
+
 An input field for entering the temperature data.
 A text view displaying the average temperature.
 Buttons labeled NEXT, CLEAR, and EXIT.
@@ -41,3 +44,5 @@ The app handles user input with an OnEditorActionListener to process and validat
 By following these steps, you can efficiently use the app to manage and view weekly weather conditions!
 
 GITHUB link https://github.com/VCCT-IMAD5112-2024-G1/Alex_Mugaviri_ST10434183 
+STudent No: Alex Mugaviri
+
